@@ -80,18 +80,10 @@ README.md
 
 ---
 
-## **🚀 Reproducing the Analysis**
+**Data Analyst / Health Data Scientist**
 
-1. Clone the repository  
-2. Open the R script or Python notebook  
-3. Run all cells/sections to generate visuals  
-4. View exported charts in the **visuals/** folder  
+[GitHub Profile](https://github.com/laar14)  
+[LinkedIn Profile](https://www.linkedin.com/in/liyerpt/)
 
----
-
-Data Analyst / Health Data Scientist
-
-Portfolio: GitHub Profile
-LinkedIn: LinkedIn Profile
 
 
