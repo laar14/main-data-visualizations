@@ -1,65 +1,98 @@
-# main-data-visualizations
-National Park Service Visitor Use Statistics
-📌 Project Overview
-This repository contains two datasets used for exploratory data analysis, state‑level comparisons, and data visualization. The goal of this project is to demonstrate practical analytics workflows using R, Python, and modern visualization libraries.
+# **README.md**
 
-The project includes:
+# Healthcare Data Analysis & Visualizations  
+Analysis of Main_Data.csv and Main_State_Data.csv
 
-Raw data files (Main_Data.csv, Main_State_Data.csv)
+---
 
-Scripts for cleaning, summarizing, and visualizing the data
+## **📌 Overview**
 
-Example charts generated from both datasets
+This repository contains two datasets used for exploratory data analysis, state‑level comparisons, and data visualization. The project demonstrates practical analytics workflows using **R** and **Python**, including data cleaning, summarization, and chart creation.
 
-Documentation to help others understand and reproduce the analysis
+---
 
-Repository Structure
+## **📁 Datasets**
 
-project-folder/
-│
-├── data/
-│   ├── Main_Data.csv
-│   └── Main_State_Data.csv
-│
-├── scripts/
-│   ├── analysis_R.R
-│   └── analysis_Python.ipynb
-│
-├── visuals/
-│   ├── histogram_main_data.png
-│   ├── state_summary_plot.png
-│   └── additional_visuals.png
+### **Main_Data.csv**  
+Record‑level or aggregated metrics used for exploratory analysis.  
+Typical fields may include:  
+- Date or reporting period  
+- Numeric metrics (counts, rates, utilization values)  
+- Categorical identifiers (facility, region, category)  
+- Outcome or performance indicators  
 
-Main_Data.csv
-This dataset contains record‑level or aggregated metrics used for exploratory analysis.
-Example types of fields (actual names will vary):
+### **Main_State_Data.csv**  
+State‑level summary dataset.  
+Typical fields may include:  
+- State name  
+- Aggregated metrics (averages, totals, per‑capita values)  
+- Comparative indicators (rankings, percent change)
 
-Date fields — reporting periods, encounter dates
+---
 
-Numeric metrics — counts, rates, utilization values
+## **📊 Visualizations**
 
-Categorical fields — facility, region, category, type
+This repository includes example visuals generated from both datasets, such as:  
+- Histograms and distribution plots  
+- State‑level comparison charts  
+- Trend lines  
+- Bar charts and summary plots  
 
-Outcome variables — performance indicators or event counts
+All visuals are stored in the **visuals/** folder.
 
-Main_State_Data.csv
-This dataset contains state‑level summaries.
-Typical fields may include:
+---
 
-State — jurisdiction name
+## **🔧 Scripts**
 
-Aggregated metrics — averages, totals, per‑capita values
+### **analysis_R.R**  
+R script for:  
+- Loading both datasets  
+- Cleaning and transforming data  
+- Creating ggplot2 visualizations  
+- Exporting PNG charts  
 
-Comparative indicators — rankings, percent change, severity levels
+### **analysis_Python.ipynb**  
+Python notebook for:  
+- Loading datasets with pandas  
+- Exploratory analysis  
+- Creating seaborn/matplotlib visualizations  
+- Saving charts to the visuals folder  
 
-Visualizations Included
-The repository contains example visuals created in both R and Python, such as:
+---
 
-Distribution plots (histograms, density curves)
+## **📂 Repository Structure**
 
-State‑level comparison charts
+```
+data/
+  Main_Data.csv
+  Main_State_Data.csv
 
-Trend lines over time
+scripts/
+  analysis_R.R
+  analysis_Python.ipynb
 
-Bar charts and heatmaps
+visuals/
+  histogram_main_data.png
+  state_summary_plot.png
+
+README.md
+```
+
+---
+
+## **🚀 Reproducing the Analysis**
+
+1. Clone the repository  
+2. Open the R script or Python notebook  
+3. Run all cells/sections to generate visuals  
+4. View exported charts in the **visuals/** folder  
+
+---
+
+## **📬 Contact**
+
+Maintainer: **Lakshmi**  
+Location: Ellicott City, MD  
+Focus: Healthcare analytics, R, Python, data visualization  
+
 
