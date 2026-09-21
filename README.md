@@ -89,10 +89,9 @@ README.md
 
 ---
 
-## **📬 Contact**
+Data Analyst / Health Data Scientist
 
-Maintainer: **Lakshmi**  
-Location: Ellicott City, MD  
-Focus: Healthcare analytics, R, Python, data visualization  
+Portfolio: GitHub Profile
+LinkedIn: LinkedIn Profile
 
 
