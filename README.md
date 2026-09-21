@@ -35,18 +35,21 @@ Main data visualization/
 ## 📊 **Visualizations Included**
 
 ### **1. Distribution of Monthly Visitation Counts**
+![Histogram of Monthly Visitation](histogram_monthly_visitation.png)
 Shows how visitation numbers vary month‑to‑month across all parks and all statistic types.  
 The distribution is highly skewed because many parks report zero backcountry nights, zero concessioner lodging, or zero trail counts in certain months.
 
 ---
 
 ### **2. Average Monthly Visitation by State**
+![Average Monthly Visitation by State](avg_monthly_visitation_by_state.png)
 Ranks states by average monthly visitation across all parks.  
 Nevada leads due to **Lake Mead National Recreation Area**, one of the most visited units in the NPS system.
 
 ---
 
 ### **3. Monthly Visitation Trend Over Time**
+![Monthly Visitation Trend](monthly_visitation_trend.png)
 Displays long‑term visitation trends across decades.  
 Seasonal spikes represent summer peaks.  
 Post‑1990 changes reflect shifts in reporting and park activity.
@@ -54,6 +57,7 @@ Post‑1990 changes reflect shifts in reporting and park activity.
 ---
 
 ### **4. Total Visitation by Statistic Type**
+![Total Visitation by Statistic](total_visitation_by_statistic.png)
 Compares total visitation counts across all statistic categories.  
 Total Hours (TH) and Total Recreation Vehicle Hours (TRVH) dominate due to their large measurement scale.
 
