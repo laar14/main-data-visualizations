@@ -107,7 +107,13 @@ This project can be extended into:
 - State visitation map  
 - Park‑level drill‑downs  
 - Statistic‑specific filters  
-- Seasonal trend visuals  
+- Seasonal trend visuals
+- ## Power BI Report
+
+You can download the full interactive Power BI dashboard here:
+
+👉 [NPS_Visitation_Dashboard.pbix](NPS_Visitation_Dashboard.pbix)
+
 
 ### **Tableau**
 - Interactive heatmaps  
