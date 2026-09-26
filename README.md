@@ -113,6 +113,9 @@ This project can be extended into:
 You can download the full interactive Power BI dashboard here:
 
 👉 [NPS_Visitation_Dashboard.pbix](NPS_Visitation_Dashboard.pbix)
+> ⚠️ GitHub cannot preview Power BI (.pbix) files.  
+> Click “Download” to open the dashboard in Power BI Desktop.
+
 
 
 ### **Tableau**
