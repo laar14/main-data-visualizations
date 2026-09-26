@@ -116,6 +116,9 @@ You can download the full interactive Power BI dashboard here:
 > ⚠️ GitHub cannot preview Power BI (.pbix) files.  
 > Click “Download” to open the dashboard in Power BI Desktop.
 
+## State-Level Visitation Map
+
+![State Map](state_avg_bucket_map.png)
 
 
 ### **Tableau**
